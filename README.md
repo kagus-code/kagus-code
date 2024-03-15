@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Eston Kagwima
 ![](https://streak-stats.demolab.com?user=kagus-code&theme=dark)
 
-I'm a passionate coder who loves to solve problems and build solutions. My primary language is Python, but I also have experience with JavaScript. I've worked with several frameworks including Django, Flask, and React.
-
-Skills: DJANGO / REACT / JS / HTML / CSS / PYTHON / TS / DOCKER /
+I'm a passionate coder who loves to solve problems and build solutions. My primary language is Python, but I also have experience with JavaScript. I've worked with several frameworks including Django, Flask, React, Angular and NEXTJS
 
 - 🌱 I’m currently learning Devops 
 - ⚡ Fun fact: Giraffes have no vocal cords 
