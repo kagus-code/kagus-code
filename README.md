@@ -5,7 +5,7 @@ I'm a passionate coder who loves to solve problems and build solutions. My prima
 
 - 🌱 I’m currently learning DevOps 
 - ⚡ Fun fact: Giraffes have no vocal cords 
--Cool Movie site i built  - https://aircheck.kagwima.com
+- Cool Movie site i built  - https://aircheck.kagwima.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kagus-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eston-kagwima/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kagus-code.web.app/)  
 
