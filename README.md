@@ -7,5 +7,4 @@ I'm a passionate coder who loves to solve problems and build solutions. My prima
 - ⚡ Fun fact: Giraffes have no vocal cords 
 - Cool Movie site i built  - https://aircheck.kagwima.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kagus-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eston-kagwima/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kagus-code.web.app/)  
-
+[<img src="https://cdn.simpleicons.org/github/181717/white" alt="github" height="40">](https://github.com/kagus-code)  [<img src="https://cdn.simpleicons.org/icloud/3699F0/white" alt="website" height="40">](https://www.kagwima.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eston-kagwima/)
